@@ -1,0 +1,6 @@
+[submodule "paradise-hotel-backend"]
+	path = paradise-hotel-backend
+	url = https://github.com/Jayyadav2/paradise-hotel-backend
+[submodule "paradise-hotel-frontend"]
+	path = paradise-hotel-frontend
+	url = https://github.com/Jayyadav2/paradise-hotel-frontend
